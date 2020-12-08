@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## OtterWhisperer
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=otterwhisperer&show_icons=true)
+
 ### Connect with me:
 
 [<img align="left" alt="github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
