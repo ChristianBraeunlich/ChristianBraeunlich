@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## SundownEffect
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=otterwhisperer&show_icons=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=sundowneffect&show_icons=true)
 
 ### Connect with me:
 
