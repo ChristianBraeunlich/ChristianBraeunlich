@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## OtterWhisperer
+## SundownEffect
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=otterwhisperer&show_icons=true)
 
