@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## SundownEffect
+## ChristianBraeunlich
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=sundowneffect&show_icons=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=christianbraeunlich&show_icons=true)
 
 ### Connect with me:
 
