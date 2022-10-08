@@ -5,5 +5,5 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [After initialization is before initialization](https://blog.christianbraeunlich.com/business%20central/2022-09-27/system-initialization/)
+- [After initialization is before initialization](https://christianbraeunlich.com/business%20central/2022-09-27/system-initialization/)
 <!-- BLOG-POST-LIST:END -->
